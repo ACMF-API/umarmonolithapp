@@ -1,0 +1,30 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "appsFolders": ["umarmonolithapp"],
+    "baseName": "umarmonolithapp",
+    "buildTool": "maven",
+    "cacheProvider": "ehcache",
+    "clientFramework": "react",
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1738864716809,
+    "databaseType": "sql",
+    "directoryPath": "../",
+    "enableHibernateCache": false,
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.8.0",
+    "jwtSecretKey": "MTJhN2M5NzIxNzRiYTUxMmUzMjQwMzUwNTlhZWE3ZDRlMDFmMDJlMzZmNjIwOWY2YjIxYzg3OWJhYzFmNzQwYzE4ZTkyMzkwZTRkNTAzNjNkM2QzODA1MjkwZjUzN2NmY2ZhN2FkOTg4NjUzMDgyMzRiMDMwZjcxODJmOTViMzg=",
+    "languages": ["en"],
+    "microfrontend": false,
+    "monitoring": "no",
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "prodDatabaseType": "mysql",
+    "reactive": false,
+    "serviceDiscoveryType": "no",
+    "testFrameworks": ["cypress", "gatling"],
+    "websocket": null
+  }
+}
