@@ -92,7 +92,7 @@ jobs:
             sudo chmod +x /usr/local/bin/docker-compose
             docker-compose --version
 
-            docker pull public.ecr.aws/c4d3l3m6/umarmonolithapp:latest
+            # docker pull public.ecr.aws/c4d3l3m6/umarmonolithapp:latest
 
             if [ -d "umarmonolithapp/.git" ]; then
               cd umarmonolithapp
