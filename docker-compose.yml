@@ -1,6 +1,6 @@
 services:
   umarmonolithapp:
-  image: public.ecr.aws/c4d3l3m6/umarmonolithapp:latest
+    image: public.ecr.aws/c4d3l3m6/umarmonolithapp:latest
     environment:
       - _JAVA_OPTIONS=-Xmx512m -Xms256m
       - SPRING_PROFILES_ACTIVE=prod,api-docs
